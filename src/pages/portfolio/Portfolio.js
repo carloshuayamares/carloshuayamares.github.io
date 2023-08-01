@@ -9,6 +9,7 @@ const Portfolio = () => {
         key={i}
         id={project.id}
         title={project.title}
+        project={project.project}
         technologies={project.technologies}
         image={project.image}
         color={project.bgcolor}

@@ -2,10 +2,11 @@
   {
     "title": "Atom",
     "image": "./projectImages/atom-dashboard.png",
-    "description": "I was responsible for the creation of integration modules and reports of telecommunication devices, this helped internal workers to perform remote configurations and resolve incidents easily and quickly. In addition to interactive dashboards that showed data in real time.",
+    "description": " I was responsible for the creation of integration modules and reports of telecommunication devices, this helped internal workers to perform remote configurations and resolve incidents easily and quickly. In addition to interactive dashboards that showed data in real time.",
     "technologies": "Node | EJS | MongoDB",
-    "github": "https://github.com/mdyeates/atom-dashboard",
-    "deployed": "https://norrinradd8.github.io/bike_buddy/",
+    "github": "",
+    "deployed": "",
+    "project": true,
     "bgcolor": "#f37737",
     "id": "1"
   },
@@ -13,9 +14,10 @@
     "title": "WARE",
     "image": "./projectImages/ware-app.png",
     "technologies": "Node | EJS | jQuery | MongoDB | Bootstrap | Vis.js",
-    "description": " This dashboard uses the OpenWeatherMap API to retrieve detailed weather data, including the city name, date, weather icon, temperature, humidity, and wind speed. The dashboard has a 5-day forecast feature and a search history feature that saves past searches for easy access. It also has a dark/light theme that changes the look of the page based on day or night in the searched location and uses the geolocation API to automatically determine the user's current location and display the weather.",
-    "github": "https://github.com/mdyeates/ware-app",
-    "deployed": "https://mdyeates.github.io/weather-app/",
+    "description": " This dashboard uses, creates, and edits telecom project templates, typically used for installations, service delivery, additions, and equipment replacement. It has a module that simulates various telecommunication devices and their connections, it also includes useful modules to configure customized services that customers require.",
+    "github": "",
+    "deployed": "",
+    "project": true,
     "bgcolor": "#29cbe0",
     "id": "2"
   },
@@ -23,9 +25,10 @@
     "title": "Entregalo",
     "image": "./projectImages/entregalo-app.png",
     "technologies": "Node | Angular | MongoDB",
-    "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end. The user will be penalised by 10 seconds for every incorrect answer.",
-    "github": "https://github.com/mdyeates/entregalo-app",
-    "deployed": "https://mdyeates.github.io/coding-quiz/",
+    "description": " A courier administration website that is responsible for assigning orders and packages, providing services to various supplier and delivery companies. I am responsible for the creation of claims modules, automatic assignment of couriers according to the area of origin and destination, modular improvements and optimization in the backend, and visuals in the frontend.",
+    "github": "",
+    "deployed": "",
+    "project": true,
     "bgcolor": "#f85781",
     "id": "3"
   },
@@ -33,10 +36,11 @@
   {
     "title": "EDI",
     "image": "./projectImages/edi-app.png",
-    "description": "Welcome to P1, your virtual pit stop for the latest updates and standings in the world of F1. But that's not all—we've also got the ultimate card game where driver knowledge is the key to victory.",
+    "description": "",
     "technologies": "Node | Angular | MongoDB",
-    "github": "https://github.com/Jake-W95/P1",
-    "deployed": "https://p1-heroes.netlify.app/",
+    "github": "",
+    "deployed": "",
+    "project": true,
     "bgcolor": "#ffcc33",
     "id": "4"
   },
@@ -45,10 +49,22 @@
     "title": "Simple",
     "image": "./projectImages/simple-app.png",
     "technologies": "Node | Angular | MongoDB | MySQL | Lambda",
-    "description": "Make every hour count with this simple Daily Planner App. You can keep track of all important appointments during a normal 9-5 work day!",
-    "github": "https://github.com/mdyeates/daily-planner",
-    "deployed": "https://mdyeates.github.io/daily-planner/",
+    "description": "",
+    "github": "",
+    "deployed": "",
+    "project": true,
     "bgcolor": "#3e67ff",
     "id": "5"
+  },
+  {
+    "title": "See More",
+    "image": "./projectImages/code.png",
+    "technologies": " COMMING SOON",
+    "description": "",
+    "github": "https://github.com/carloshuayamares",
+    "deployed": "",
+    "project": false,
+    "bgcolor": "#009e66",
+    "id": "6"
   }
 ]
