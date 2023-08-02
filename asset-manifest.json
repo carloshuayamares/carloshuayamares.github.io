@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e0c08326.css",
-    "main.js": "/static/js/main.2b10688f.js",
+    "main.js": "/static/js/main.27f01979.js",
     "static/media/aboutme.jpeg": "/static/media/aboutme.29dd2b1c17fe128af7dd.jpeg",
     "static/media/me.svg": "/static/media/me.e7de0face183a4b3c64ede4925714bc1.svg",
     "static/media/carlos-huayamares-resume.pdf": "/static/media/carlos-huayamares-resume.13d1e228bf0b8932c89c.pdf",
@@ -10,10 +10,10 @@
     "static/media/close.svg": "/static/media/close.a591c5268e7cbcfeb569c6afea5745fc.svg",
     "static/media/open.svg": "/static/media/open.e6bd41ec79183186fdb132e92b58c1de.svg",
     "main.e0c08326.css.map": "/static/css/main.e0c08326.css.map",
-    "main.2b10688f.js.map": "/static/js/main.2b10688f.js.map"
+    "main.27f01979.js.map": "/static/js/main.27f01979.js.map"
   },
   "entrypoints": [
     "static/css/main.e0c08326.css",
-    "static/js/main.2b10688f.js"
+    "static/js/main.27f01979.js"
   ]
 }
