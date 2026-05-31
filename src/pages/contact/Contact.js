@@ -14,7 +14,7 @@ const Contact = ({ name, email, location }) => {
           <div className="col-12 col-lg-6">
             <ContactInfo name={name} location={location} email={email} />
             {/* <button class="btn">
-              <a href="mailto:carlos.huayamares.d@uni.pe">Say Hello</a>
+              <a href="mailto:carlos.huayamares.d@gmail.com">Say Hello</a>
             </button> */}
             {/* <Form /> */}
           </div>

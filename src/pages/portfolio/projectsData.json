@@ -57,6 +57,16 @@
     "id": "5"
   },
   {
+    "title": "Migracion CLOUD",
+    "technologies": "TypeScript | AWS | Dynamo | Lambda",
+    "description": "Migracion de servicios a la nube, utilizando AWS como proveedor, se migraron servicios de bases de datos, almacenamiento y funciones lambda, con el objetivo de mejorar la escalabilidad y disponibilidad de los servicios.",
+    "github": "",
+    "deployed": "",
+    "project": true,
+    "bgcolor": "#f30037",
+    "id": "6"
+  },
+  {
     "title": "See More",
     "image": "./projectImages/code.png",
     "technologies": " COMMING SOON",
@@ -65,6 +75,6 @@
     "deployed": "",
     "project": false,
     "bgcolor": "#009e66",
-    "id": "6"
+    "id": "7"
   }
 ]
