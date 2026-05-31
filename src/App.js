@@ -5,7 +5,7 @@ function App() {
   const personalDetails = {
     name: "Carlos Huayamares",
     location: "Lima, PE",
-    email: "carlos.huayamares.d@uni.pe",
+    email: "carlos.huayamares.d@gmail.com",
     availability: "Open for work",
     brand:
       `
